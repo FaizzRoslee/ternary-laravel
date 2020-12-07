@@ -36,8 +36,17 @@ Route::get('/icons/svg', 'PagesController@svg');
 Route::get('/quick-search', 'PagesController@quickSearch')->name('quick-search');
 
 Auth::routes();
-Route::get('/po/generate', 'Expenses\PurchaseOrderController@showGenerate')->name('po-generate');
-Route::get('/po/generate/pdf', 'Expenses\PurchaseOrderController@generatePDF')->name('generate-pdf');
+Route::group(['middleware' => 'auth'], function () {
+    Route::get('/logout', 'Auth\LoginController@logout');
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+    Route::get('/po/request', 'Expenses\PurchaseOrderController@showRequest')->name('po-request');
+    Route::post('/po/store', 'Expenses\PurchaseOrderController@storeRequest')->name('po-store');
+
+
+    Route::get('/po/generate/pdf', 'Expenses\PurchaseOrderController@generatePDF')->name('generate-pdf');
+
+    Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+});
+
 

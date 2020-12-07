@@ -100,15 +100,18 @@
     {{-- Notifications --}}
     @if (config('layout.extras.notifications.display'))
         @if (config('layout.extras.notifications.layout') == 'offcanvas')
-            <div class="topbar-item">
+            <div class="topbar-item" data-toggle="dropdown" data-offset="10px,0px">
+                <div class="btn btn-icon w-auto btn-clean d-flex align-items-center btn-lg px-0">
+                    <div class="d-flex flex-column text-right pr-3">
+                        <span class="text-primary font-weight-bolder font-size-base d-md-inline mr-3">{{Auth::user()->name }}</span>
 
-                <div class="btn btn-icon w-auto btn-clean d-flex align-items-center btn-lg px-2" id="kt_quick_notifications_toggle">
-                    <span class="text-muted font-weight-bold font-size-base d-none d-md-inline mr-1">Hi,</span>
-                    <span class="text-dark-50 font-weight-bolder font-size-base d-none d-md-inline mr-3">Sean</span>
-                    <span class="symbol symbol-35 symbol-light-success">
-                        <span class="symbol-label font-size-h5 font-weight-bold">S</span>
-                    </span>
+                        <span class="text-muted font-weight-bold font-size-base d-md-inline mr-1">{{Auth::user()->title }}</span>
+                    </div>
+                    <span class="symbol symbol-45 symbol-light-primary">
+                                                        <img alt="Avatar" src="{{ Auth::user()->avatar }}"/>
+                        </span>
                 </div>
+            </div>
 {{--                <div class="btn btn-icon btn-clean btn-lg mr-1 pulse pulse-primary" id="kt_quick_notifications_toggle">--}}
 {{--                    {{ Metronic::getSVG("media/svg/icons/Code/Compiling.svg", "svg-icon-xl svg-icon-primary") }}--}}
 {{--                    <span class="pulse-ring"></span>--}}
@@ -120,12 +123,12 @@
                 <div class="topbar-item" data-toggle="dropdown" data-offset="10px,0px">
                     <div class="btn btn-icon w-auto btn-clean d-flex align-items-center btn-lg px-0">
                         <div class="d-flex flex-column text-right pr-3">
-                            <span class="text-primary font-weight-bolder font-size-base d-md-inline mr-3">Faizz Roslee</span>
+                            <span class="text-primary font-weight-bolder font-size-base d-md-inline mr-3">{{Auth::user()->name }}</span>
 
-                            <span class="text-muted font-weight-bold font-size-base d-md-inline mr-1">Technical Lead Engineer</span>
+                            <span class="text-muted font-weight-bold font-size-base d-md-inline mr-1">{{Auth::user()->title }}</span>
                         </div>
                         <span class="symbol symbol-45 symbol-light-primary">
-                                                        <img alt="Avatar" src="{{ asset('media/users/default.jpg') }}"/>
+                                                        <img alt="Avatar" src="{{ Auth::user()->avatar }}"/>
                         </span>
                     </div>
                 </div>
@@ -150,17 +153,17 @@
                         </li>
                         <li class="navi-separator mb-3"></li>
                         <li class="navi-item">
-                            <a href="#" class="navi-link">
-                                <span class="navi-icon"><i class="flaticon2-drop"></i></span>
-                                <span class="navi-text">Recent Orders</span>
+                            <a href="{{route('logout')}}" class="navi-link">
+                                <span class="navi-icon"><i class="flaticon-logout"></i></span>
+                                <span class="navi-text">Logout</span>
                             </a>
                         </li>
-                        <li class="navi-item">
-                            <a href="#" class="navi-link">
-                                <span class="navi-icon"><i class="flaticon2-calendar-8"></i></span>
-                                <span class="navi-text">Support Cases</span>
-                            </a>
-                        </li>
+{{--                        <li class="navi-item">--}}
+{{--                            <a href="#" class="navi-link">--}}
+{{--                                <span class="navi-icon"><i class="flaticon2-calendar-8"></i></span>--}}
+{{--                                <span class="navi-text">Support Cases</span>--}}
+{{--                            </a>--}}
+{{--                        </li>--}}
                     </ul>
                 </div>
 

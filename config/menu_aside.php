@@ -99,11 +99,11 @@ return [
                     'bullet' => 'dot',
                     'submenu' => [
                         [
-                            'title' => 'Generate',
-                            'page' => 'po/generate'
+                            'title' => 'Request',
+                            'page' => 'po/request'
                         ],
                         [
-                            'title' => 'View',
+                            'title' => 'Approval',
                             'page' => 'custom/pages/wizard/wizard-2'
                         ],
                     ]
@@ -124,20 +124,6 @@ return [
                 ],
                 [
                     'title' => 'Payment Voucher',
-                    'bullet' => 'dot',
-                    'submenu' => [
-                        [
-                            'title' => 'Generate',
-                            'page' => 'custom/pages/wizard/wizard-1'
-                        ],
-                        [
-                            'title' => 'View',
-                            'page' => 'custom/pages/wizard/wizard-2'
-                        ],
-                    ]
-                ],
-                [
-                    'title' => 'Delivery Order',
                     'bullet' => 'dot',
                     'submenu' => [
                         [

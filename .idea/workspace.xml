@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6df02904-fd1f-4b89-bc12-0d8b1ef31cc5" name="Default Changelist" comment="" />
+    <list default="true" id="6df02904-fd1f-4b89-bc12-0d8b1ef31cc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Expenses/PurchaseOrderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Expenses/PurchaseOrderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/menu_aside.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/menu_aside.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout/base/_layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/base/_layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layout/partials/extras/_topbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/partials/extras/_topbar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/expenses/purchase-order/generate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/expenses/purchase-order/request.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +40,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -164,12 +197,24 @@
       <workItem from="1606956875793" duration="12974000" />
       <workItem from="1607071691828" duration="63000" />
       <workItem from="1607072638207" duration="282000" />
-      <workItem from="1607072952810" duration="263000" />
+      <workItem from="1607072952810" duration="527000" />
+      <workItem from="1607075498326" duration="13359000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="-926" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606800168659">
@@ -186,11 +231,15 @@
     <state x="-1570" y="-980" width="2360" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/890.-1057.2048.1057/-1670.-1057.2560.1057/0.23.1792.1028@-1670.-1057.2560.1057" timestamp="1607073434029" />
     <state x="-1570" y="-980" width="2360" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/890.-1057.2048.1057/-1670.-1080.2560.1080/0.23.1792.1028@-1670.-1080.2560.1080" timestamp="1607072797950" />
     <state x="-1570" y="-980" width="2360" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/890.-1080.2048.1080/-1670.-1080.2560.1080/0.0.1792.1120@-1670.-1080.2560.1080" timestamp="1607073200675" />
-    <state x="-886" y="-839" width="586" height="548" key="find.popup" timestamp="1606916359212">
+    <state x="-577" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607132768542">
       <screen x="-1670" y="-1080" width="2560" height="1080" />
     </state>
-    <state x="-886" y="-839" width="586" height="548" key="find.popup/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1606916359212" />
-    <state x="-683" y="-814" width="586" height="548" key="find.popup/890.-1080.2048.1080/-1670.-1080.2560.1080/0.0.1792.1120@-1670.-1080.2560.1080" timestamp="1606818485587" />
+    <state x="-577" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1607132768542" />
+    <state x="-886" y="-839" width="586" height="548" key="find.popup" timestamp="1607312288101">
+      <screen x="-1670" y="-1080" width="2560" height="1080" />
+    </state>
+    <state x="-886" y="-839" width="586" height="548" key="find.popup/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1607312288101" />
+    <state x="-886" y="-839" width="586" height="548" key="find.popup/890.-1080.2048.1080/-1670.-1080.2560.1080/0.0.1792.1120@-1670.-1080.2560.1080" timestamp="1607075547870" />
     <state x="-725" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1607072707675">
       <screen x="-1670" y="-1080" width="2560" height="1080" />
     </state>

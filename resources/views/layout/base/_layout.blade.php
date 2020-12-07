@@ -44,9 +44,9 @@
 {{--        @include('layout.partials.extras.offcanvas._quick-search')--}}
 {{--    @endif--}}
 
-    @if (config('layout.extras.notifications.layout') == 'offcanvas')
-        @include('layout.partials.extras.offcanvas._quick-notifications')
-    @endif
+{{--    @if (config('layout.extras.notifications.layout') == 'offcanvas')--}}
+{{--        @include('layout.partials.extras.offcanvas._quick-notifications')--}}
+{{--    @endif--}}
 
 {{--    @if (config('layout.extras.quick-actions.layout') == 'offcanvas')--}}
 {{--        @include('layout.partials.extras.offcanvas._quick-actions')--}}
