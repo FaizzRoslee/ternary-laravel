@@ -108,7 +108,7 @@
                         <span class="text-muted font-weight-bold font-size-base d-md-inline mr-1">{{Auth::user()->title }}</span>
                     </div>
                     <span class="symbol symbol-45 symbol-light-primary">
-                                                        <img alt="Avatar" src="{{ Auth::user()->avatar }}"/>
+                                                        <img alt="Avatar" src="{{asset(Auth::user()->avatar)}}"/>
                         </span>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                             <span class="text-muted font-weight-bold font-size-base d-md-inline mr-1">{{Auth::user()->title }}</span>
                         </div>
                         <span class="symbol symbol-45 symbol-light-primary">
-                                                        <img alt="Avatar" src="{{ Auth::user()->avatar }}"/>
+                                                        <img alt="Avatar" src="{{asset(Auth::user()->avatar)}}"/>
                         </span>
                     </div>
                 </div>

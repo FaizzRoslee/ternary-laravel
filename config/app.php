@@ -176,6 +176,10 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        //Datatable
+        Yajra\DataTables\DataTablesServiceProvider::class,
+
+
     ],
 
     /*
@@ -231,6 +235,10 @@ return [
         // Metronic Aliases
         'Metronic' => App\Classes\Theme\Metronic::class,
         'Menu' => App\Classes\Theme\Menu::class,
+
+        //Datatable
+        'DataTables' => Yajra\DataTables\Facades\DataTables::class,
+
 
     ],
 

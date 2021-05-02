@@ -20,16 +20,99 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6df02904-fd1f-4b89-bc12-0d8b1ef31cc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/megaone/css/LineIcons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/css/bundle.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/css/cubeportfolio.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/css/settings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/css/swiper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/css/wow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/LineIcons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/LineIcons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/LineIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/LineIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/revicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/revicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/revicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/revicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/quote.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/section-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/side-menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/slide-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/slide-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/slide-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/work-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/work-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/work-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/work-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/work-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/work-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/work-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/img/work-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/contact_us.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.actions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.kenburn.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.layeranimation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.migration.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.navigation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.parallax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.slideanims.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/jquery.cubeportfolio.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/jquery.fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/jquery.themepunch.revolution.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/jquery.themepunch.tools.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/swiper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megaone/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/pages/expenses/purchase-order/approval.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ternary-laravel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ternary-laravel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Classes/Theme/Menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Classes/Theme/Menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Expenses/PurchaseOrderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Expenses/PurchaseOrderController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Expense.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Expense.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/menu_aside.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/menu_aside.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layout/base/_layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/base/_layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layout/partials/extras/_topbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/partials/extras/_topbar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/expenses/purchase-order/generate.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/expenses/purchase-order/request.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/expenses/purchase-order/request.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/expenses/purchase-order/request.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,6 +235,7 @@
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/yajra/laravel-datatables-oracle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1l0OBfqcrGXaXRSq7lOuR5Ox6a5" />
@@ -162,28 +246,37 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/megaone/js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/media" />
-      <recent name="$PROJECT_DIR$/public/media/logos" />
-      <recent name="$PROJECT_DIR$/resources/views" />
-      <recent name="$PROJECT_DIR$/public/js" />
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/megaone/js" />
       <recent name="$PROJECT_DIR$/public/media" />
       <recent name="$PROJECT_DIR$/public/media/logos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/megaone/js" />
+      <recent name="$PROJECT_DIR$/public/megaone/js/revslider" />
+      <recent name="$PROJECT_DIR$/public/megaone" />
+      <recent name="$PROJECT_DIR$/public/megaone/js/extensions" />
+      <recent name="$PROJECT_DIR$/public/megaone/css" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.approval.blade.php">
+    <configuration name="approval.blade.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ternary-laravel/resources/views/pages/expenses/purchase-order/approval.blade.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.approval.blade.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -198,7 +291,10 @@
       <workItem from="1607071691828" duration="63000" />
       <workItem from="1607072638207" duration="282000" />
       <workItem from="1607072952810" duration="527000" />
-      <workItem from="1607075498326" duration="13359000" />
+      <workItem from="1607075498326" duration="27916000" />
+      <workItem from="1607819570790" duration="9389000" />
+      <workItem from="1608516160164" duration="1153000" />
+      <workItem from="1608780502526" duration="7468000" />
     </task>
     <servers />
   </component>
@@ -215,16 +311,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-926" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606800168659">
       <screen x="-1670" y="-1080" width="2560" height="1080" />
     </state>
     <state x="-926" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1606800168659" />
-    <state x="-652" y="-778" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606800101927">
+    <state x="-652" y="-778" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607421878752">
       <screen x="-1670" y="-1080" width="2560" height="1080" />
     </state>
-    <state x="-652" y="-778" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1606800101927" />
+    <state x="-652" y="-778" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1607421878752" />
     <state x="-1570" y="-980" width="2360" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607073434029">
       <screen x="-1670" y="-1057" width="2560" height="1057" />
     </state>
@@ -235,11 +332,11 @@
       <screen x="-1670" y="-1080" width="2560" height="1080" />
     </state>
     <state x="-577" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1607132768542" />
-    <state x="-886" y="-839" width="586" height="548" key="find.popup" timestamp="1607312288101">
+    <state x="-886" y="-839" width="586" height="548" key="find.popup" timestamp="1608866343383">
       <screen x="-1670" y="-1080" width="2560" height="1080" />
     </state>
-    <state x="-886" y="-839" width="586" height="548" key="find.popup/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1607312288101" />
-    <state x="-886" y="-839" width="586" height="548" key="find.popup/890.-1080.2048.1080/-1670.-1080.2560.1080/0.0.1792.1120@-1670.-1080.2560.1080" timestamp="1607075547870" />
+    <state x="-886" y="-839" width="586" height="548" key="find.popup/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1608866343383" />
+    <state x="-886" y="-839" width="586" height="576" key="find.popup/890.-1080.2048.1080/-1670.-1080.2560.1080/0.0.1792.1120@-1670.-1080.2560.1080" timestamp="1608781734681" />
     <state x="-725" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1607072707675">
       <screen x="-1670" y="-1080" width="2560" height="1080" />
     </state>

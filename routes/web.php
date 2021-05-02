@@ -43,6 +43,9 @@ Route::group(['middleware' => 'auth'], function () {
     Route::get('/po/request', 'Expenses\PurchaseOrderController@showRequest')->name('po-request');
     Route::post('/po/store', 'Expenses\PurchaseOrderController@storeRequest')->name('po-store');
 
+    //approval role only
+    Route::get('/po/approval', 'Expenses\PurchaseOrderController@showApproval')->name('po-approval');
+
 
     Route::get('/po/generate/pdf', 'Expenses\PurchaseOrderController@generatePDF')->name('generate-pdf');
 
