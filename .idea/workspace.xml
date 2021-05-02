@@ -21,85 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6df02904-fd1f-4b89-bc12-0d8b1ef31cc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/css/LineIcons.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/css/bundle.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/css/cubeportfolio.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/css/jquery.fancybox.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/css/owl.carousel.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/css/settings.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/css/swiper.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/css/wow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/LineIcons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/LineIcons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/LineIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/LineIcons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/ajax-loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/revicons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/revicons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/revicons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/revicons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/slick.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/slick.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/slick.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/fonts/slick.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/blog-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/blog-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/quote.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/section-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/side-menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/slide-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/slide-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/slide-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/team-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/team-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/team-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/video.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/work-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/work-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/work-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/work-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/work-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/work-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/work-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/img/work-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/contact_us.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.actions.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.kenburn.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.layeranimation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.migration.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.navigation.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.parallax.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.slideanims.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/extensions/revolution.extension.video.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/jquery.cubeportfolio.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/jquery.fancybox.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/jquery.themepunch.revolution.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/jquery.themepunch.tools.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/owl.carousel.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/swiper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/wow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megaone/js/wow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +203,7 @@
       <workItem from="1607819570790" duration="9389000" />
       <workItem from="1608516160164" duration="1153000" />
       <workItem from="1608780502526" duration="7468000" />
-      <workItem from="1619947624805" duration="1067000" />
+      <workItem from="1619947624805" duration="1905000" />
     </task>
     <servers />
   </component>
