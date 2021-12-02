@@ -340,38 +340,38 @@
                 </div>
 
 
-                <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
+                <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="splide">
                         <div class="splide__track">
                             <ul class="splide__list">
                                 <li class="splide__slide">
-                                    <div class="card" style="width: 18rem;">
+                                    <div class="card border-0" style="width: 23rem;">
                                         <img class="card-img-top" src="{{asset('images/slider/perkeso.png')}}" alt="perkeso">
                                     </div>
 {{--                                    <img style="" src="{{asset('images/slider/perkeso.png')}}" alt="">--}}
                                 </li>
                                 <li class="splide__slide">
-                                    <div class="card" style="width: 18rem;">
+                                    <div class="card border-0" style="width: 23rem;">
                                         <img class="card-img-top" src="{{asset('images/slider/csm.png')}}" alt="cybersecurity malaysia">
                                     </div>
                                 </li>
                                 <li class="splide__slide">
-                                    <div class="card" style="width: 18rem;">
+                                    <div class="card border-0" style="width: 23rem;">
                                         <img class="card-img-top" src="{{asset('images/slider/punb.png')}}" alt="perbadanan usahawan nasional berhad">
                                     </div>
                                 </li>
                                 <li class="splide__slide">
-                                    <div class="card" style="width: 18rem;">
+                                    <div class="card border-0" style="width: 23rem;">
                                         <img class="card-img-top" src="{{asset('images/slider/unikl.png')}}" alt="universiti kuala lumpur">
                                     </div>
                                 </li>
                                 <li class="splide__slide">
-                                    <div class="card" style="width: 18rem;">
+                                    <div class="card border-0" style="width: 23rem;">
                                         <img class="card-img-top" src="{{asset('images/slider/fas.png')}}" alt="fa selangor">
                                     </div>
                                 </li>
                                 <li class="splide__slide">
-                                    <div class="card" style="width: 18rem;">
+                                    <div class="card border-0" style="width: 23rem;">
                                         <img class="card-img-top" src="{{asset('images/slider/kkmm.png')}}" alt="kementerian komunikasi dan multimedia">
                                     </div>
                                 </li>
@@ -517,21 +517,39 @@
         });
     });
 
-    document.addEventListener( 'DOMContentLoaded', function() {
-        const splide = new Splide( '.splide', {
-            type   : 'loop',
-            drag   : 'free',
-            focus  : 'center',
-            autoStart : true,
-            perPage: 3,
-            autoplay: true,
-            autoScroll: {
-                speed: 2,
-            },
-        } );
+    $(document).ready(function(){
+        if(window.matchMedia("(max-width: 767px)").matches){
+            // The viewport is less than 768 pixels wide
+            const splide = new Splide( '.splide', {
+                type   : 'loop',
+                drag   : 'free',
+                focus  : 'center',
+                autoStart : true,
+                perPage: 1,
+                autoplay: true,
+                autoScroll: {
+                    speed: 2,
+                },
+            } );
 
-        splide.mount();
-    } );
+            splide.mount();
+        } else{
+            // The viewport is at least 768 pixels wide
+            const splide = new Splide( '.splide', {
+                type   : 'loop',
+                drag   : 'free',
+                focus  : 'center',
+                autoStart : true,
+                perPage: 3,
+                autoplay: true,
+                autoScroll: {
+                    speed: 2,
+                },
+            } );
+
+            splide.mount();
+        }
+    });
 
 
 </script>
