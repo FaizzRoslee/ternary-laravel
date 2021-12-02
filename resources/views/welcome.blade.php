@@ -25,6 +25,7 @@
     <link rel="stylesheet" type="text/css" href="{{asset('css/pinko/font-awesome.css')}}">
 
     <link rel="stylesheet" href="{{asset('css/pinko/templatemo-softy-pinko.css')}}">
+    <link rel="stylesheet" href="{{asset('js/splide/css/splide.min.css')}}">
 
 </head>
 
@@ -322,6 +323,74 @@
 <!-- ***** Home Parallax End ***** -->
 
 
+<!-- ***** Features Big Item Start ***** -->
+<section class="section padding-top-70 padding-bottom-70" id="">
+    <div class="mini-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="center-heading">
+                        <h2 class="section-title">OUR <span style="color: #14508f">CLIENTS</span></h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="center-text">
+                        <p>Meet our happy clients</p>
+                    </div>
+                </div>
+
+
+                <div class="col-lg-12 col-md-12 col-sm-12 align-self-center">
+                    <div class="splide">
+                        <div class="splide__track">
+                            <ul class="splide__list">
+                                <li class="splide__slide">
+                                    <div class="card" style="width: 18rem;">
+                                        <img class="card-img-top" src="{{asset('images/slider/perkeso.png')}}" alt="perkeso">
+                                    </div>
+{{--                                    <img style="" src="{{asset('images/slider/perkeso.png')}}" alt="">--}}
+                                </li>
+                                <li class="splide__slide">
+                                    <div class="card" style="width: 18rem;">
+                                        <img class="card-img-top" src="{{asset('images/slider/csm.png')}}" alt="cybersecurity malaysia">
+                                    </div>
+                                </li>
+                                <li class="splide__slide">
+                                    <div class="card" style="width: 18rem;">
+                                        <img class="card-img-top" src="{{asset('images/slider/punb.png')}}" alt="perbadanan usahawan nasional berhad">
+                                    </div>
+                                </li>
+                                <li class="splide__slide">
+                                    <div class="card" style="width: 18rem;">
+                                        <img class="card-img-top" src="{{asset('images/slider/unikl.png')}}" alt="universiti kuala lumpur">
+                                    </div>
+                                </li>
+                                <li class="splide__slide">
+                                    <div class="card" style="width: 18rem;">
+                                        <img class="card-img-top" src="{{asset('images/slider/fas.png')}}" alt="fa selangor">
+                                    </div>
+                                </li>
+                                <li class="splide__slide">
+                                    <div class="card" style="width: 18rem;">
+                                        <img class="card-img-top" src="{{asset('images/slider/kkmm.png')}}" alt="kementerian komunikasi dan multimedia">
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ***** Features Big Item End ***** -->
+
+
+
+
 <!-- ***** Contact Us Start ***** -->
 <section class="section colored" id="contact-us">
     <div class="container">
@@ -408,15 +477,15 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-                <p class="copyright">Copyright &copy; {{ now()->year }} Ternary Solution Sdn Bhd</p>
+                <p class="copyright">Copyright &copy; {{ now()->year }} Ternary Solution Sdn Bhd <br>202001009953 (1366273-A)</p>
             </div>
         </div>
     </div>
 </footer>
 
 <!-- jQuery -->
-<script src="{{asset('js/pinko/jquery-2.1.0.min.js')}}"></script>
-
+{{--<script src="{{asset('js/pinko/jquery-2.1.0.min.js')}}"></script>--}}
+<script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
 <!-- Bootstrap -->
 <script src="{{asset('js/pinko/popper.js')}}"></script>
 <script src="{{asset('js/pinko/bootstrap.min.js')}}"></script>
@@ -429,6 +498,8 @@
 
 <!-- Global Init -->
 <script src="{{asset('js/pinko/custom.js')}}"></script>
+<script src="{{asset('js/splide/js/splide.js')}}"></script>
+<script src="{{asset('js/splide/js/auto-scroll/splide-extension-auto-scroll.js')}}"></script>
 
 <script src="https://www.google.com/recaptcha/api.js?render={{ config('services.recaptcha.sitekey') }}"></script>
 <script>
@@ -445,6 +516,24 @@
             }
         });
     });
+
+    document.addEventListener( 'DOMContentLoaded', function() {
+        const splide = new Splide( '.splide', {
+            type   : 'loop',
+            drag   : 'free',
+            focus  : 'center',
+            autoStart : true,
+            perPage: 3,
+            autoplay: true,
+            autoScroll: {
+                speed: 2,
+            },
+        } );
+
+        splide.mount();
+    } );
+
+
 </script>
 
 </body>

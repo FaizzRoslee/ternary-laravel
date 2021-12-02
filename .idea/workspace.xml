@@ -20,8 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6df02904-fd1f-4b89-bc12-0d8b1ef31cc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/slider/csm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider/fas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider/kkmm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider/perkeso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider/punb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/slider/unikl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/css/splide-core.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/css/splide.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/css/themes/splide-default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/css/themes/splide-sea-green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/css/themes/splide-skyblue.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/auto-scroll/splide-extension-auto-scroll.cjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/auto-scroll/splide-extension-auto-scroll.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/auto-scroll/splide-extension-auto-scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/auto-scroll/splide-extension-auto-scroll.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/auto-scroll/splide-extension-auto-scroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/splide-renderer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/splide.cjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/splide.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/splide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/splide.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/splide.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/splide.min.js.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/splide/js/splide.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +56,13 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -153,23 +185,26 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images/slider" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images/slider" />
+      <recent name="$PROJECT_DIR$/public/js/splide/js/auto-scroll" />
+      <recent name="$PROJECT_DIR$/public/js/splide/css" />
+      <recent name="$PROJECT_DIR$/public/js/splide/js" />
+      <recent name="$PROJECT_DIR$/public/megaone/js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js/splide/js/auto-scroll" />
+      <recent name="$PROJECT_DIR$/public/js/splide" />
       <recent name="$PROJECT_DIR$/public/megaone/js" />
       <recent name="$PROJECT_DIR$/public/media" />
       <recent name="$PROJECT_DIR$/public/media/logos" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/megaone/js" />
-      <recent name="$PROJECT_DIR$/public/megaone/js/revslider" />
-      <recent name="$PROJECT_DIR$/public/megaone" />
-      <recent name="$PROJECT_DIR$/public/megaone/js/extensions" />
-      <recent name="$PROJECT_DIR$/public/megaone/css" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.approval.blade.php">
@@ -204,6 +239,7 @@
       <workItem from="1608516160164" duration="1153000" />
       <workItem from="1608780502526" duration="7468000" />
       <workItem from="1619947624805" duration="1905000" />
+      <workItem from="1638415982989" duration="5787000" />
     </task>
     <servers />
   </component>
@@ -221,35 +257,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-926" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606800168659">
-      <screen x="-1670" y="-1080" width="2560" height="1080" />
-    </state>
-    <state x="-926" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1606800168659" />
-    <state x="-652" y="-778" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607421878752">
-      <screen x="-1670" y="-1080" width="2560" height="1080" />
-    </state>
-    <state x="-652" y="-778" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1607421878752" />
-    <state x="-1570" y="-980" width="2360" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1607073434029">
-      <screen x="-1670" y="-1057" width="2560" height="1057" />
-    </state>
-    <state x="-1570" y="-980" width="2360" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/890.-1057.2048.1057/-1670.-1057.2560.1057/0.23.1792.1028@-1670.-1057.2560.1057" timestamp="1607073434029" />
-    <state x="-1570" y="-980" width="2360" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/890.-1057.2048.1057/-1670.-1080.2560.1080/0.23.1792.1028@-1670.-1080.2560.1080" timestamp="1607072797950" />
-    <state x="-1570" y="-980" width="2360" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/890.-1080.2048.1080/-1670.-1080.2560.1080/0.0.1792.1120@-1670.-1080.2560.1080" timestamp="1607073200675" />
-    <state x="-577" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607132768542">
-      <screen x="-1670" y="-1080" width="2560" height="1080" />
-    </state>
-    <state x="-577" y="-619" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1607132768542" />
-    <state x="-886" y="-839" width="586" height="548" key="find.popup" timestamp="1608866343383">
-      <screen x="-1670" y="-1080" width="2560" height="1080" />
-    </state>
-    <state x="-886" y="-839" width="586" height="548" key="find.popup/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1608866343383" />
-    <state x="-886" y="-839" width="586" height="576" key="find.popup/890.-1080.2048.1080/-1670.-1080.2560.1080/0.0.1792.1120@-1670.-1080.2560.1080" timestamp="1608781734681" />
-    <state x="-725" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1607072707675">
-      <screen x="-1670" y="-1080" width="2560" height="1080" />
-    </state>
-    <state x="-725" y="-839" width="670" height="676" key="search.everywhere.popup/-1670.-1080.2560.1080/0.0.1792.1120/890.-1080.2048.1080@-1670.-1080.2560.1080" timestamp="1606799985641" />
-    <state x="-725" y="-839" width="670" height="676" key="search.everywhere.popup/890.-1057.2048.1057/-1670.-1080.2560.1080/0.23.1792.1028@-1670.-1080.2560.1080" timestamp="1607072707675" />
   </component>
 </project>
