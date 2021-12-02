@@ -428,6 +428,9 @@
                             Jalan Ampang, 50440, Kuala Lumpur.<br>
                         </li>
                         <li>
+                            <br>
+                        </li>
+                        <li>
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.756605034317!2d101.71232971529919!3d3.1587396977000224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc37d0e3aaaaab%3A0xfb7c847f591c2d6c!2sWisma%20Central!5e0!3m2!1sen!2smy!4v1606490878685!5m2!1sen!2smy" width="300" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                         </li>
                     </ul>
@@ -436,7 +439,7 @@
             <!-- ***** Contact Text End ***** -->
 
             <!-- ***** Contact Form Start ***** -->
-            <div class="col-lg-8 col-md-6 col-sm-12" data-scroll-reveal="enter right move 90px over 0.6s after 0.4s">
+            <div class="col-lg-8 col-md-6 col-sm-12 mt-4" data-scroll-reveal="enter right move 90px over 0.6s after 0.4s">
                 <div class="contact-form">
                     <form id="contact" action="{{route('contact-mail')}}" method="post">
                         @csrf
